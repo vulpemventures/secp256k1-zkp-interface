@@ -1,0 +1,9 @@
+{
+  "name": "@types/secp256k1-zkp",
+  "version": "1.0.0",
+  "description": "Interface for secp256k1-zkp JS implementation",
+  "types": "./index.d.ts",
+  "repository": "git@github.com:vulpemventures/secp256k1-zkp-interface.git",
+  "author": "Vulpem Ventures",
+  "license": "MIT"
+}
